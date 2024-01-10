@@ -5,7 +5,11 @@ A simple calculator app built with Flutter.
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screenshots](#screenshots
+-![splash](https://github.com/Shubhamkumar8789/Calculator-App-using-Flutter/assets/129000347/7057c169-8670-4052-9cae-28e26b1531b2)
+![cal](https://github.com/Shubhamkumar8789/Calculator-App-using-Flutter/assets/129000347/c1673ec4-1b5a-4626-b1e0-1ef5007f8801)
+
+- )
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
